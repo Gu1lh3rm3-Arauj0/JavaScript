@@ -1,0 +1,13 @@
+{
+  "name": "programacao_orientada_a_objetos",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "heranca_de_prototipo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
